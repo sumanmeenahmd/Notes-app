@@ -1,0 +1,6 @@
+{
+  "name": "Folio Notes",
+  "description": "A fast, distraction-free personal workspace for notes, markdown writing, and interactive checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
